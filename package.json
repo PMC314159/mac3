@@ -1,0 +1,14 @@
+{
+  "name": "pair-archive-chromium-render",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "149.0.0",
+    "puppeteer-core": "25.1.0",
+    "@vercel/blob": "2.6.1"
+  }
+}
